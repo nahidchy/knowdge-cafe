@@ -11,9 +11,11 @@ function App() {
       const newBooksMark = [...booksMark,blog];
       setBooksMark(newBooksMark);
     }
-    const handleMarkAsRead =(time)=>{
+    const handleMarkAsRead =(id,time)=>{
        setReadingTime(readingTime + time);
-
+       console.log("dsjlfk g", id);
+       const remainingBookMarks = booksMark.filter(book => book.id !== id)
+         setBooksMark(remainingBookMarks);
     }
     
   return (
