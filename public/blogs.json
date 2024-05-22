@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "author": "Jane Doe",
+      "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+      "reading_time": 5,
+      "cover": "https://images.unsplash.com/photo-1503264116251-35a269479413?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+      "title": "Exploring the Wonders of the Universe",
+      "posted_date": "2024-05-20",
+      "hashtags": ["#space", "#science", "#astronomy"]
+    },
+    {
+      "id": "2",
+      "author": "John Smith",
+      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "reading_time": 8,
+      "cover": "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+      "title": "The Future of Artificial Intelligence",
+      "posted_date": "2024-05-19",
+      "hashtags": ["#AI", "#technology", "#innovation"]
+    },
+    {
+      "id": "3",
+      "author": "Emily Johnson",
+      "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "reading_time":6,
+      "cover": "https://images.unsplash.com/photo-1542831371-d531d36971e6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+      "title": "Understanding Climate Change",
+      "posted_date": "2024-05-18",
+      "hashtags": ["#climatechange", "#environment", "#science"]
+    },
+    {
+      "id": "4",
+      "author": "Michael Brown",
+      "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+      "reading_time": 7,
+      "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+      "title": "The Evolution of Quantum Computing",
+      "posted_date": "2024-05-17",
+      "hashtags": ["#quantumcomputing", "#technology", "#future"]
+    },
+    {
+      "id": "5",
+      "author": "Sarah Davis",
+      "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+      "reading_time": 4,
+      "cover": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60",
+      "title": "The Rise of Renewable Energy",
+      "posted_date": "2024-05-16",
+      "hashtags": ["#renewableenergy", "#sustainability", "#green"]
+    }
+  ]
+  
